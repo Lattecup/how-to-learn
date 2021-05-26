@@ -25,7 +25,7 @@
   z-index: 2;
 }
 
-.logo__img {
+.logo__img_footer {
   width: 183px;
   height: 32px;
 }
@@ -107,7 +107,7 @@
 }
 
 .two-columns__main-text {
-  width: 80%; 
+  width: 80%;
   min-width: 784px;
   line-height: 34px;
   font-size: 24px;
