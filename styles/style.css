@@ -25,7 +25,7 @@
   z-index: 2;
 }
 
-.logo__img_header {
+.logo__img_place_header {
   width: 183px;
   height: 32px;
 }
@@ -259,7 +259,7 @@
   margin-top: 80px;
 }
 
-.caufman__triangle {
+.kaufman__triangle {
   width: 877px;
   height: 877px;
   background-image: url(../images/kaufman-triangle.svg);
@@ -293,7 +293,7 @@
   justify-content: space-between;
 }
 
-.logo__img_footer {
+.logo__img_place_footer {
   width: 183px;
   height: 35px;
 }
