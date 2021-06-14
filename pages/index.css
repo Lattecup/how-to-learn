@@ -1,8 +1,9 @@
 @import url(../vendor/normalize.css);
 @import url(../blocks/page/page.css);
+@import url(../blocks/logo/logo.css);
 @import url(../blocks/logo/_place/logo_place_header.css);
-@import url(../blocks/logo/__img/logo__img_place_header.css);
-@import url(../blocks/logo/__img/logo__img_place_footer.css);
+@import url(../blocks/logo/__img/_place/logo__img_place_header.css);
+@import url(../blocks/logo/__img/_place/logo__img_place_footer.css);
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__title/header__title.css);
 @import url(../blocks/header/__subtitle/header__subtitle.css);
@@ -14,7 +15,7 @@
 @import url(../blocks/two-columns/two-columns.css);
 @import url(../blocks/two-columns/__brief/two-columns__brief.css);
 @import url(../blocks/two-columns/__main-text/two-columns__main-text.css);
-@import url(../blocks/two-columns/paragraph/two-columns__paragraph.css);
+@import url(../blocks/two-columns/__paragraph/two-columns__paragraph.css);
 @import url(../blocks/two-columns/__span-accent/two-columns__span-accent.css);
 @import url(../blocks/techniques/techniques.css);
 @import url(../blocks/cards/cards.css);
